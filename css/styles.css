@@ -177,11 +177,11 @@ button {
   color: var(--slate);
 }
 
-.page-footer {
+.footer {
   background-color: var(--navy-blue);
 }
 
-.page-footer-logo-link {
+.footer-logo-link {
   font-family: var(--second-family);
   font-weight: 700;
   font-size: 18px;
@@ -191,11 +191,11 @@ button {
   color: var(--cloud);
 }
 
-.page-footer-logo-link-iris {
+.footer-logo-link-iris {
   color: var(--iris);
 }
 
-.page-footer-text {
+.footer-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
